@@ -14,3 +14,15 @@ Homework of Computer Vision And Augmented Reality Lesson🖨
 （2）打开视频或图像文件，并显示；
 
 （3）在视频（或图像）上叠加自己的学号和姓名；
+
+
+
+## Homework2
+
+根据自己的兴趣，在三道题中选做一道：
+
+1. 矫正图像中的偏色
+
+2. 替换对象颜色
+
+3. 着色
