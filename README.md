@@ -33,3 +33,14 @@ Homework of Computer Vision And Augmented Reality Lesson🖨
 
 1. 为了降低成本和体积，一些光电产品在设计时常采用计算替代复杂的光学修正。现有一指采集设备，有效窗口尺寸为32mm X 32mm，直接获取带有窗口的图像如图1。请对图像进行修正，得到640X640无畸变的指纹图像。
 2. 打印棋盘格，尝试标定自己的手机相机，获取手机镜头的参数，然后根据标定矩阵矫正所拍的照片。
+
+
+
+## Homework4
+
+三选一
+
+1. 请把下图中学校的名牌（或名字）换成其它任意学校名，做到与原有场景一致。（或自选图片和替换对象）
+
+2. 用python，opencv 实现AR.开源项目 BAR4Py. https://github.com/GeekLiB/AR-BXT-AR4Python
+3. 基于PyOpenGL和Pygame的增强现实，https://blog.csdn.net/weixin_43842653/article/details/89071046
