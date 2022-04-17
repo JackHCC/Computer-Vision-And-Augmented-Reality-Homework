@@ -41,6 +41,36 @@ Homework of Computer Vision And Augmented Reality Lesson🖨
 三选一
 
 1. 请把下图中学校的名牌（或名字）换成其它任意学校名，做到与原有场景一致。（或自选图片和替换对象）
-
 2. 用python，opencv 实现AR.开源项目 BAR4Py. https://github.com/GeekLiB/AR-BXT-AR4Python
 3. 基于PyOpenGL和Pygame的增强现实，https://blog.csdn.net/weixin_43842653/article/details/89071046
+
+
+
+## Homework5
+
+二选一：
+
+1. 自己拍摄两张有重叠区域的照片，然后拼接起来
+2. 自选一张图分别用Harris， SIFT，SURF， ORB提取特征点，并比较提取的特征点数和耗时。
+
+
+
+## Homework6
+
+四选一：
+
+1. 用根据纹理分割图中不同的区域
+2. 比较三纹理图篇，哪两张更相似
+3. 纹理迁移
+4. 自选图和网络模型，实现风格迁移
+
+
+
+## Homework7
+
+自选图像和分割方法，实现图像分割。
+
+
+
+
+
