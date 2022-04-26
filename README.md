@@ -72,5 +72,11 @@ Homework of Computer Vision And Augmented Reality Lesson🖨
 
 
 
+## Homework8
 
+三选一：
+
+1. 修正图中的暗角；
+2. 采用高动态范围技术融合图像；
+3. 采用高分辨率技术扩大图像。
 
