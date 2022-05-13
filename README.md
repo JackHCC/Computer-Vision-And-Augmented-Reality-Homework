@@ -80,3 +80,12 @@ Homework of Computer Vision And Augmented Reality Lesson🖨
 2. 采用高动态范围技术融合图像；
 3. 采用高分辨率技术扩大图像。
 
+## Homework9
+
+三选一：
+
+1. 检测图像中的物体。
+2. 构建物体（物体自定）检测系统
+   - 建立训练集
+   - 验证检测效果
+3. 场景描述
