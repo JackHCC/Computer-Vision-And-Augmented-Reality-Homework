@@ -89,3 +89,10 @@ Homework of Computer Vision And Augmented Reality Lesson🖨
    - 建立训练集
    - 验证检测效果
 3. 场景描述
+
+## Homework10
+
+二选一：
+
+1. 动态检测光流
+2. 用光流场方法，标出前景（运动）和背景（静止）。
