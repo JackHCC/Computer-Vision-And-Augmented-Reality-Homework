@@ -96,3 +96,13 @@ Homework of Computer Vision And Augmented Reality Lesson🖨
 
 1. 动态检测光流
 2. 用光流场方法，标出前景（运动）和背景（静止）。
+
+## Homework11
+
+三选一：
+
+1. 在实时输入视频中跟踪物体；
+
+2. 在输入视频文件中跟踪物体；
+
+3. 将物体检测和物体跟踪结合起来，实现不需要初始标注物体的跟踪系统。
