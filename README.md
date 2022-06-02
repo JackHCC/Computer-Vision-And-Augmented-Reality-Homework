@@ -102,7 +102,14 @@ Homework of Computer Vision And Augmented Reality Lesson🖨
 三选一：
 
 1. 在实时输入视频中跟踪物体；
-
 2. 在输入视频文件中跟踪物体；
-
 3. 将物体检测和物体跟踪结合起来，实现不需要初始标注物体的跟踪系统。
+
+## Homework12
+
+计算下列两幅图的视差图（深度图）：
+
+（1）比较BM和SGBM所获取的深度图的差别，并分析其原因；
+
+（2）用实验分析BlockSize的大小对提取深度图算法的影响。
+
