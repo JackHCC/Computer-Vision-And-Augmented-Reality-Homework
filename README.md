@@ -116,3 +116,8 @@ Homework of Computer Vision And Augmented Reality Lesson🖨
 ## Homework13
 
 根据RGB-D数据图，生成点云数据（文件），并显示。
+
+## Homework14
+
+自制一张内部复制粘贴的图像，然把复制区域检测出来。
+
